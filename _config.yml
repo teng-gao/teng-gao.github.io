@@ -36,7 +36,9 @@ admin_name: ''
 enable_contact: false
 
 #### Phantom Navigation menu
-enable_nav: false
+enable_nav: true
 nav_item:
-  - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'CV' }
+  - { url: '#ri', text: 'Research Interests' }
+  - { url: '#edu', text: 'Education'}
+  - { url: '#work', text: 'Work Experience'}
+  - { url: '#pub', text: 'Publications'}
