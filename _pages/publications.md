@@ -8,7 +8,7 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-<p><small>* indicates co-first authors.</small></p>
+<p><small>* indicates equal contribution.</small></p>
 <div class="publications">
 
 {%- for y in page.years %}
