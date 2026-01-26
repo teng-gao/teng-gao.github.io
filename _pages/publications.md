@@ -3,11 +3,12 @@ layout: page
 permalink: /publications/
 title: Publications
 description: Peer-reviewed publications and invited commentaries
-years: [2025, 2024,2023,2022,2021,2020,2018,2017]
+years: [2026, 2025, 2024,2023,2022,2021,2020,2018,2017]
 nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
+<p><small>* indicates co-first authors.</small></p>
 <div class="publications">
 
 {%- for y in page.years %}
